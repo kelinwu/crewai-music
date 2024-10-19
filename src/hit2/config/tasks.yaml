@@ -1,0 +1,13 @@
+songwriting:
+  description: >
+    Write a song about Hey Brendan
+  expected_output: >
+    A song with lyrics and detailed melodies.
+  agent: songwriter 
+
+producing:
+  description: >
+    Outline the chord progression and detailed melody for the song written by the songwriter so a performing artist and engineer can record, program, and mix it
+  expected_output: >
+    Lyrics, detailed melody, and chord progression for the song
+  agent: producer
